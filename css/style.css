@@ -1,0 +1,39 @@
+h1{
+   color:blueviolet
+}
+span{
+   color:darkgoldenrod;
+}
+
+.lists{
+   color:darkmagenta;
+}
+
+#body{
+   color:blue;
+}
+
+div#surroundings{
+   color:darksalmon;
+}
+.header p{
+   color:cyan;
+}
+
+
+.emotion ~ p{
+   color:darkblue;
+}
+
+.breath + p{
+   color: pink;
+}
+
+.paragraph,.humor{
+   color:indigo;
+}
+
+#breath .watch-breath{
+   color:magenta;
+}
+
